@@ -1,0 +1,14 @@
+.navbar{
+    background-color: crimson;
+}
+.logo{
+    background-color: blue;
+}
+
+
+h1 {text-align:center}
+h2{text-align:center}
+h3{text-align:center}
+.outline{
+    outline-style:groove
+}
